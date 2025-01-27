@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5245b460-0253-4117-b972-de6b298283bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Lab_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lab4/Lab4_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Lab_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Lab_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +45,18 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "TestNG.Lab4_test.executor": "Run",
     "TestNG.Lab_2.executor": "Run",
     "TestNG.Lab_2.testHeaderExists.executor": "Debug",
+    "TestNG.MyTestClass.executor": "Run",
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/User/IdeaProjects/ZMMNIT_Lab_2/src/test/java",
-    "last_opened_file_path": "C:/Users/User/Documents/ZMMNIT/ZMMNIT_Lab_2_Indiv",
+    "last_opened_file_path": "C:/Users/User/Documents/ZMMNIT/ZMMNIT_Lab_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,11 +67,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\ZMMNIT\ZMMNIT_Lab_2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab_2">
+  <component name="RunManager">
     <configuration name="Lab_2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ZMMNIT_Lab_2" />
       <extension name="coverage">
@@ -124,6 +135,7 @@
       <updated>1736858993106</updated>
       <workItem from="1736858994407" duration="10283000" />
       <workItem from="1736871489859" duration="155000" />
+      <workItem from="1737976627540" duration="3908000" />
     </task>
     <servers />
   </component>
